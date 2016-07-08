@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 git clone git@github.com:heroku/herokusamplenode.git # or clone your own fork
-cd node-js-sample
+cd herokusample
 npm install
 npm start
 ```
