@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Sample",
+  "name": "Node.js heroku Sample",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/mikeshif/herokusample",
   "logo": "http://herokusample.herokuapp.com/node.svg",
